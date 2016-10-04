@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\rembrand\Desktop\Sunshine-Version-2-sunshine_master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\jars\libs\internal_impl-21.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="C:\Users\rembrand\Desktop\Sunshine-Version-2-sunshine_master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.2_10853b0c280e920712b4df9129df76bf8fe4c72b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rembrand\Desktop\Sunshine-Version-2-sunshine_master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="C:\Users\rembrand\Desktop\Sunshine-Version-2-sunshine_master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-21.0.2_7206ef162dc04f4b44a7e637cb0bbf6f6831dd8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rembrand\Desktop\Sunshine-Version-2-sunshine_master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="b8016a60f403ee787a363ce00750dbcdc9dc12ee">
+        <dex dex="C:\Users\rembrand\Desktop\Sunshine-Version-2-sunshine_master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_55e7d3e9d55b720882d1b355255889b148195dc2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rembrand\Desktop\Sunshine-Version-2-sunshine_master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="C:\Users\rembrand\Desktop\Sunshine-Version-2-sunshine_master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.2_9ee5b0da79819b6913a8a1f9e9248a9ac405f7e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rembrand\Desktop\Sunshine-Version-2-sunshine_master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="80f16c4f7c6b03893089abf74f75eb5f6aff48bd">
+        <dex dex="C:\Users\rembrand\Desktop\Sunshine-Version-2-sunshine_master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2ef160750a65b235b42f9bdeded16c3e7a93c9cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rembrand\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="C:\Users\rembrand\Desktop\Sunshine-Version-2-sunshine_master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.2_f4f1f7346f41d7db8331bbf33a52cfffdb6d6d6e\classes.dex" />
+    </item>
+
+</items>
