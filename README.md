@@ -7,8 +7,8 @@ Take the course to find out how to build this app a step at a time, and eventual
 
 This is the second version of the Sunshine code. The repository has been updated on:
 
-* **October 18th, 2015** - Updated to support use of the openweathermap.org API key.
-* **February 13th, 2015** - Major update
+* October 18th, 2015 - Updated to support use of the openweathermap.org API key.
+* February 13th, 2015 - Major update
 * February 25, 2015 - Minor bug fixes
 * March 4th, 2015 - Minor bug fixes
 
